@@ -1,0 +1,185 @@
+_repo: The-Best-British-Short-Stories-of-1922_9363
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Moult, Thomas
+    alias: Southgate, Sidney
+    birthdate: 1893
+    deathdate: 1974
+    gutenberg_agent_id: '34944'
+    url: http://www.gutenberg.org/2009/agents/34944
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Moult
+  - agent_name: Mordaunt, Elinor
+    birthdate: 1876
+    deathdate: 1942
+    gutenberg_agent_id: '34943'
+    url: http://www.gutenberg.org/2009/agents/34943
+  - agent_name: De la Mare, Walter
+    aliases:
+    - Ramal, Walter
+    - De la Mare, Walter John
+    - Mare, Walter de la
+    birthdate: &id002 1873
+    deathdate: 1956
+    gutenberg_agent_id: '1108'
+    url: http://www.gutenberg.org/2009/agents/1108
+    wikipedia: http://en.wikipedia.org/wiki/Walter_de_la_Mare
+  - agent_name: Graham, Alan
+    alias: McKissock, A. E.
+    gutenberg_agent_id: '34939'
+    url: http://www.gutenberg.org/2009/agents/34939
+  - agent_name: Sinclair, May
+    alias: Sinclair, Mary Amelia St. Clair
+    birthdate: &id004 1863
+    deathdate: 1946
+    gutenberg_agent_id: '3004'
+    url: http://www.gutenberg.org/2009/agents/3004
+    wikipedia: http://en.wikipedia.org/wiki/May_Sinclair
+  - agent_name: Truscott, L. Parry
+    aliases:
+    - Hargrave, Abbie
+    - Truscott, Parry
+    gutenberg_agent_id: '34946'
+    url: http://www.gutenberg.org/2009/agents/34946
+  - agent_name: Aumonier, Stacy
+    birthdate: 1887
+    deathdate: 1928
+    gutenberg_agent_id: '34936'
+    url: http://www.gutenberg.org/2009/agents/34936
+  - agent_name: Edginton, May
+    aliases:
+    - Edington, May
+    - Edginton, Helen Marion
+    birthdate: 1883
+    deathdate: &id001 1957
+    gutenberg_agent_id: '6239'
+    url: http://www.gutenberg.org/2009/agents/6239
+    wikipedia: http://en.wikipedia.org/wiki/May_Edginton
+  - agent_name: Coppard, A. E. (Alfred Edgar)
+    birthdate: 1878
+    deathdate: *id001
+    gutenberg_agent_id: '34960'
+    url: http://www.gutenberg.org/2009/agents/34960
+    wikipedia: http://en.wikipedia.org/wiki/A._E._Coppard
+  - agent_name: Caine, William
+    birthdate: *id002
+    deathdate: 1925
+    gutenberg_agent_id: '34937'
+    url: http://www.gutenberg.org/2009/agents/34937
+  - agent_name: Walpole, Hugh, Sir
+    alias: Walpole, Sir Hugh
+    birthdate: 1884
+    deathdate: &id005 1941
+    gutenberg_agent_id: '1207'
+    url: http://www.gutenberg.org/2009/agents/1207
+    wikipedia: http://en.wikipedia.org/wiki/Hugh_Walpole
+  - agent_name: Galsworthy, John
+    alias: Sinjohn, John
+    birthdate: 1867
+    deathdate: 1933
+    gutenberg_agent_id: '850'
+    url: http://www.gutenberg.org/2009/agents/850
+    wikipedia: http://en.wikipedia.org/wiki/John_Galsworthy
+  - agent_name: Kenney, Rowland
+    gutenberg_agent_id: '34941'
+    url: http://www.gutenberg.org/2009/agents/34941
+  - agent_name: Blackwood, Algernon
+    birthdate: 1869
+    deathdate: 1951
+    gutenberg_agent_id: '1370'
+    url: http://www.gutenberg.org/2009/agents/1370
+    wikipedia: http://en.wikipedia.org/wiki/Algernon_Blackwood
+  - agent_name: Easton, Dorothy
+    birthdate: 1889
+    gutenberg_agent_id: '34938'
+    url: http://www.gutenberg.org/2009/agents/34938
+  - agent_name: Stern, G. B. (Gladys Bronwyn)
+    birthdate: &id003 1890
+    deathdate: 1973
+    gutenberg_agent_id: '34945'
+    url: http://www.gutenberg.org/2009/agents/34945
+    wikipedia: http://en.wikipedia.org/wiki/Gladys_Bronwyn_Stern
+  - agent_name: Crompton, Richmal
+    alias: Lamburn, Richmal Crompton
+    birthdate: *id003
+    deathdate: 1969
+    gutenberg_agent_id: '7152'
+    url: http://www.gutenberg.org/2009/agents/7152
+    wikipedia: http://en.wikipedia.org/wiki/Richmal_Crompton
+  - agent_name: Malet, Lucas
+    alias: Harrison, Mary St. Leger Kingsley
+    birthdate: 1852
+    deathdate: 1931
+    gutenberg_agent_id: '2808'
+    url: http://www.gutenberg.org/2009/agents/2808
+    wikipedia: http://en.wikipedia.org/wiki/Lucas_Malet
+  - agent_name: Pemberton, Max
+    alias: Pemberton, Sir Max
+    birthdate: *id004
+    deathdate: 1950
+    gutenberg_agent_id: '32059'
+    url: http://www.gutenberg.org/2009/agents/32059
+    wikipedia: http://en.wikipedia.org/wiki/Max_Pemberton
+  - agent_name: Pertwee, Roland
+    birthdate: 1885
+    deathdate: 1963
+    gutenberg_agent_id: '26017'
+    url: http://www.gutenberg.org/2009/agents/26017
+    wikipedia: http://en.wikipedia.org/wiki/Roland_Pertwee
+  - agent_name: Horn, Holloway
+    birthdate: 1886
+    gutenberg_agent_id: '34940'
+    url: http://www.gutenberg.org/2009/agents/34940
+  - agent_name: Langbridge, Rosamond
+    birthdate: 1880
+    deathdate: 1964
+    gutenberg_agent_id: '34942'
+    url: http://www.gutenberg.org/2009/agents/34942
+  - agent_name: Brighouse, Harold
+    birthdate: 1882
+    deathdate: 1958
+    gutenberg_agent_id: '2011'
+    url: http://www.gutenberg.org/2009/agents/2011
+  - agent_name: Beresford, J. D. (John Davys)
+    alias: Beresford, John Davys
+    birthdate: *id002
+    deathdate: 1947
+    gutenberg_agent_id: '5862'
+    url: http://www.gutenberg.org/2009/agents/5862
+    wikipedia: http://en.wikipedia.org/wiki/J._D._Beresford
+creator:
+  editors:
+  - agent_name: O'Brien, Edward Joseph Harrington
+    alias: Harrington, Joseph F.
+    birthdate: *id003
+    deathdate: *id005
+    gutenberg_agent_id: '3022'
+    url: http://www.gutenberg.org/2009/agents/3022
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Joseph_Harrington_O'Brien
+  - agent_name: Cournos, John
+    birthdate: 1881
+    deathdate: 1966
+    gutenberg_agent_id: '2482'
+    url: http://www.gutenberg.org/2009/agents/2482
+    wikipedia: http://en.wikipedia.org/wiki/John_Cournos
+description: See also abridged version PG#22319 pub. in Boston
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9363'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Where was Wych Street? -- The looking-glass -- The olive -- Once
+  a hero -- "The pensioner" -- Broadsheet ballad -- The Christmas present -- Seaton's
+  aunt -- The reaper -- The song -- A hedonist -- The Bat and Belfry Inn -- The lie
+  -- A girl in it -- The backstairs of the mind -- The birth of a masterpiece -- "Genius"
+  -- The devil to pay -- Empty arms -- Lena Wrace -- The dice thrower -- The stranger
+  woman -- The woman who sat still -- Major Wilbraham.
+title: The Best British Short Stories of 1922
+url: http://www.gutenberg.org/ebooks/9363
