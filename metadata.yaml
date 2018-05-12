@@ -1,5 +1,5 @@
 _repo: The-Best-British-Short-Stories-of-1922_9363
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributors:
   - agent_name: Moult, Thomas
@@ -19,7 +19,7 @@ contributor:
     - Ramal, Walter
     - De la Mare, Walter John
     - Mare, Walter de la
-    birthdate: &id002 1873
+    birthdate: 1873
     deathdate: 1956
     gutenberg_agent_id: '1108'
     url: http://www.gutenberg.org/2009/agents/1108
@@ -30,7 +30,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/34939
   - agent_name: Sinclair, May
     alias: Sinclair, Mary Amelia St. Clair
-    birthdate: &id004 1863
+    birthdate: 1863
     deathdate: 1946
     gutenberg_agent_id: '3004'
     url: http://www.gutenberg.org/2009/agents/3004
@@ -51,25 +51,25 @@ contributor:
     - Edington, May
     - Edginton, Helen Marion
     birthdate: 1883
-    deathdate: &id001 1957
+    deathdate: 1957
     gutenberg_agent_id: '6239'
     url: http://www.gutenberg.org/2009/agents/6239
     wikipedia: http://en.wikipedia.org/wiki/May_Edginton
   - agent_name: Coppard, A. E. (Alfred Edgar)
     birthdate: 1878
-    deathdate: *id001
+    deathdate: 1957
     gutenberg_agent_id: '34960'
     url: http://www.gutenberg.org/2009/agents/34960
     wikipedia: http://en.wikipedia.org/wiki/A._E._Coppard
   - agent_name: Caine, William
-    birthdate: *id002
+    birthdate: 1873
     deathdate: 1925
     gutenberg_agent_id: '34937'
     url: http://www.gutenberg.org/2009/agents/34937
   - agent_name: Walpole, Hugh, Sir
     alias: Walpole, Sir Hugh
     birthdate: 1884
-    deathdate: &id005 1941
+    deathdate: 1941
     gutenberg_agent_id: '1207'
     url: http://www.gutenberg.org/2009/agents/1207
     wikipedia: http://en.wikipedia.org/wiki/Hugh_Walpole
@@ -94,14 +94,14 @@ contributor:
     gutenberg_agent_id: '34938'
     url: http://www.gutenberg.org/2009/agents/34938
   - agent_name: Stern, G. B. (Gladys Bronwyn)
-    birthdate: &id003 1890
+    birthdate: 1890
     deathdate: 1973
     gutenberg_agent_id: '34945'
     url: http://www.gutenberg.org/2009/agents/34945
     wikipedia: http://en.wikipedia.org/wiki/Gladys_Bronwyn_Stern
   - agent_name: Crompton, Richmal
     alias: Lamburn, Richmal Crompton
-    birthdate: *id003
+    birthdate: 1890
     deathdate: 1969
     gutenberg_agent_id: '7152'
     url: http://www.gutenberg.org/2009/agents/7152
@@ -115,7 +115,7 @@ contributor:
     wikipedia: http://en.wikipedia.org/wiki/Lucas_Malet
   - agent_name: Pemberton, Max
     alias: Pemberton, Sir Max
-    birthdate: *id004
+    birthdate: 1863
     deathdate: 1950
     gutenberg_agent_id: '32059'
     url: http://www.gutenberg.org/2009/agents/32059
@@ -142,17 +142,20 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/2011
   - agent_name: Beresford, J. D. (John Davys)
     alias: Beresford, John Davys
-    birthdate: *id002
+    birthdate: 1873
     deathdate: 1947
     gutenberg_agent_id: '5862'
     url: http://www.gutenberg.org/2009/agents/5862
     wikipedia: http://en.wikipedia.org/wiki/J._D._Beresford
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editors:
   - agent_name: O'Brien, Edward Joseph Harrington
     alias: Harrington, Joseph F.
-    birthdate: *id003
-    deathdate: *id005
+    birthdate: 1890
+    deathdate: 1941
     gutenberg_agent_id: '3022'
     url: http://www.gutenberg.org/2009/agents/3022
     wikipedia: http://en.wikipedia.org/wiki/Edward_Joseph_Harrington_O'Brien
@@ -163,6 +166,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2482
     wikipedia: http://en.wikipedia.org/wiki/John_Cournos
 description: See also abridged version PG#22319 pub. in Boston
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9363#The-Best-British-Short-Stories-of-1922
 gutenberg_issued: '2005-11-01'
 gutenberg_type: Text
 identifiers:
